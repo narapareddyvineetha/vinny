@@ -1,0 +1,165 @@
+ .a{
+    height: 700px;
+    width:1000px;
+    background-color: aquamarine;
+ }
+ .b{
+    height:50px;
+    width:1000px;
+    background-color:dodgerblue;
+    margin-bottom: 20px;
+    text-align: center;padding-top:30px;
+    color:white;font-size: x-large;
+ }
+ .ab{
+    height:600px;
+    width:1000px;
+    background-color:lightblue;
+ }
+ .c{
+    height:600px;
+    width:400px;
+    background-color:aquamarine;
+    float:left;
+ }
+ .d{
+    height:600px;
+    width:600px;
+    background-color:aquamarine;
+    float:right;
+ }
+ .e{
+    height:200px;
+    width:520px;
+    background-color:dodgerblue;
+    color:white;
+    padding-left:40px;padding-top:20px;padding-right:20px;
+ }
+ .f{
+    height:30px;
+    width:600px;
+    background-color: aquamarine;
+    padding-top: 10px;padding-bottom: 10px;
+    font-size:larger;
+ }
+ .g{
+    height: 250px;
+    width:600px;
+    background-color:aquamarine;
+ }
+ .search{
+       height:30px;
+       width:300px;
+       background-color: dodgerblue;
+       color:white;
+       text-align: center;
+       padding-top: 10px;
+       padding-left: 30px;margin-left: 20px;
+ }
+ .current{
+    height:30px;
+    width:300px;
+    background-color:gray;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 30px;margin-left: 20px;
+}
+.hi{
+    height:3px;
+    width:300px;margin-left: 20px;
+}
+.s{
+    height:3px;
+    width:155px;
+    background-color: dimgray;
+    float: left;
+}
+.u{
+   height:3px;
+   width:20px;
+   background-color:aquamarine;
+   float: left;
+  position:relative;bottom:10px;left:3px;
+}
+.t{
+    height:3px;
+    width:155px;
+    background-color: dimgray;float:right;position: relative;left:30px;bottom: 2px;
+}
+
+ .h{
+    height:240px;
+    width:90px;
+    background-color: dimgrey;
+    float:left;
+    color: white;
+    margin-right:20px;
+    padding-left:20px;padding-top:10px;padding-right:20px;
+ }
+ .i{
+    height:240px;
+    width:90px;
+    background-color: dimgrey;
+    float:left;
+    color: white;
+    margin-right:20px;
+    padding-left:20px;padding-top:10px;padding-right:20px;
+ }
+ .j{
+    height: 240px;
+    width:90px;
+    background-color: dimgrey;
+    float:left;
+    color: white;
+    margin-right:20px;
+    padding-left:20px;padding-top:10px;padding-right:20px;
+ } 
+ .k{
+    height: 240px;
+    width:90px;
+    background-color: dimgrey;
+    color: white;
+    float:right;
+    margin-right:20px;
+    padding-left:20px;padding-top:10px;padding-right:20px
+ }
+ .rain{
+    height:150px;
+    width:150px;background-color: dodgerblue;
+    position: relative; left:360px;bottom:150px;right:50px;
+    background-image: url(../back/moderate\ rain.jpeg);
+    background-repeat: no-repeat;background-size: cover;
+ }
+ .mm{
+    height:30px;
+    width:150px;
+    color:white;
+    position: relative;
+    bottom:150px;left:360px;
+ }
+ .l{
+    height:50px;
+    width:50px;
+    background-image: url(../back/sunny\ weather.png);
+    background-repeat: no-repeat;background-size: cover;
+ }
+ .m{
+    height:50px;
+    width:50px;
+    background-image: url(../back/sun.png);
+    background-repeat: no-repeat;background-size: cover;
+ }
+ .n{
+    height:50px;
+    width:50px;
+    background-image: url(../back/thunderstorm.jpeg);
+    background-repeat: no-repeat;background-size: cover;
+ }
+ .o{
+    height:50px;
+    width:50px;
+    background-image: url(../back/wind\ rain.jpeg);
+    background-repeat: no-repeat;background-size: cover;
+ }
+ 

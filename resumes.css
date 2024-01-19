@@ -1,0 +1,279 @@
+.a{
+    height: 50px;
+    width: 1200px;
+    background-color: whitesmoke;
+}
+.b{
+    height: 1000px;
+    width: 1200px;
+    background-color: lightgray;
+}
+.c{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+
+}
+.d{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 150px;
+    top: 50px;
+
+}
+.e{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: right;
+    position: relative;
+     right: 750px;
+    top: 500px;
+
+}
+.f{
+    
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: right;
+    position: relative;
+     right: 250px;
+    top: 100px;
+}
+.g{
+    height: 30px;
+    width: 100px;
+    background-color:rgb(54, 230, 54);
+    opacity: 70%;
+    position: relative;
+    left: 250px;
+    border-radius: 5px;
+    top: 10px;
+}
+.h{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(46, 170, 219);
+    opacity: 70%;
+    position: relative;
+    left: 270px;
+    border-radius: 5px;
+    top: 10px;
+
+}
+.i{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(32, 169, 223);
+    opacity: 70%;
+    position: relative;
+    left: 290px;
+    border-radius: 5px;
+    top: 10px;
+}
+.j{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(29, 154, 204);
+    opacity: 70%;
+    position: relative;
+    left: 310px;
+    border-radius: 5px;
+    top: 10px;
+
+}
+.k{
+    height: 30px;
+    width: 100px;
+    background-color:red;
+    opacity: 70%;
+    position: relative;
+    left: 330px;
+    border-radius: 5px;
+    top: 10px;
+}
+.l{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 40px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+    .m{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        border-radius: 40px;
+        position: relative;
+        top: 20px;
+        left: 30px;    
+
+    }
+    .n{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        border-radius: 40px;
+        position: relative;
+        top: 20px;
+        left: 30px; 
+    }
+    .o{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        border-radius: 40px;
+        position: relative;
+        top: 20px;
+        left: 30px; 
+    }
+    .p{
+        font-size: 15px;
+        text-align: center;
+        color: black;
+        
+        position: relative;
+        bottom: 50px;
+        text-transform: capitalize;
+    }
+    .q{
+        
+        font-size: 15px;
+        text-align: center;
+        color: black;
+        position: relative;
+        bottom: 50px;
+        text-transform: capitalize;
+    }
+    .r{
+        
+        font-size: 15px;
+        text-align: center;
+        color: black;
+        position: relative;
+        bottom: 50px;
+        text-transform: capitalize;
+    }
+    .s{
+        
+        font-size: 15px;
+        text-align: center;
+        color: black;
+        position: relative;
+        bottom: 50px;
+        text-transform: capitalize;
+    }
+    .t{
+      
+       border-left: 2px solid gray;
+       height: 280px;
+       position: relative;
+       left: 80px;
+       bottom: 55px;
+    }
+    .hi{
+        height: 15px;
+        width: 15px;
+     
+        border-radius: 20px;
+        position: relative;
+        bottom: 450px;
+        left: 73px;
+    }
+    .hi1{
+        height: 15px;
+        width: 15px;
+      
+        border-radius: 20px;
+        position: relative;
+        bottom: 400px;
+        left: 73px;
+    }
+    .hi2{
+        height: 15px;
+        width: 15px;
+       
+        border-radius: 20px;
+        position: relative;
+        bottom: 350px;
+        left: 73px;
+
+    }
+    .u{
+        text-transform: capitalize;
+        color: black;
+        position: relative;
+        bottom: 290px;
+        left: 100px;
+    }
+    .v{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 280px;
+        left: 100px;
+
+    }
+    .w{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 310px;
+        left: 320px;
+    }
+    .ho{
+        text-transform: capitalize;
+        color: black;
+        position: relative;
+        bottom: 270px;
+        left: 100px;
+    }
+    .ho1{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 260px;
+        left: 100px;
+
+    }
+    .ho2{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 290px;
+        left: 320px;
+    }
+    .hlo{
+        text-transform: capitalize;
+        color: black;
+        position: relative;
+        bottom: 240px;
+        left: 100px;
+    }
+    .hlo1{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 230px;
+        left: 100px;
+
+    }
+    .hlo2{
+        text-transform: capitalize;
+        color: gray;
+        position: relative;
+        bottom: 270px;
+        left: 320px;
+    }
+ 

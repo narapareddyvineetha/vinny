@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title></title>
+    <style>
+        *body{
+            margin:0%;padding:0%;
+        }
+        #a{
+            height:300px;
+            width:300px;
+            background-color: blueviolet;
+            float:left;
+        }
+        #a:hover{
+            transform: translate(20px,40px,60px);/*translate x and y */
+        }
+        @media screen and (min-width:1px) and (max-width:671px){
+            #a{
+                width:100%;
+            }
+        }
+        #b{
+            height:300px;
+            width:300px;
+            background-color:orangered;
+            float:left;
+        }
+#b:hover{        
+            transform: translatex(30px);/*translate x and y */
+        }
+        @media screen and (min-width:1px) and (max-width:933px){
+            #b{
+                width:100%;
+            }
+        }
+        #c{
+            height:300px;
+            width:300px;
+            background-color:green;
+            float:left;
+        }
+        #c:hover{    
+            transform: translateY(30px);/*translate y */
+            }
+            @media screen and (min-width:1px) and (max-width:993px){
+            #c{
+                width:100%;
+            }
+        }
+        #d{
+            height:300px;
+            width:300px;
+            background-color:blue;
+            float:left;
+        }
+        #d:hover{ 
+            transform: rotate(60deg);/*rotate*/
+        }
+        @media screen and (min-width:1px) and (max-width:671px){
+            #d{
+                width:100%;
+            }
+        }
+        #e{
+            height:300px;
+            width:300px;
+            background-color:yellow;
+            float:left;
+        }
+        #e:hover{ 
+            transform: rotatex(60deg);/*rotate x*/
+        }
+        @media screen and (min-width:1px) and (max-width:933px){
+            #e{
+                width:100%;
+            }
+        }
+        #f{
+            height:300px;
+            width:300px;
+            background-color:orange;
+            float:left;
+        }
+        #f:hover{ 
+            transform: rotatey(60deg);/*rotate y*/
+        }
+        @media screen and (min-width:1px) and (max-width:993px){
+            #f{
+                width:100%;
+            }
+        }
+        #g{
+            height:300px;
+            width:300px;
+            background-color:blue;
+            float:left;/*scale */
+        }
+        #g:hover{ 
+            transform:scale(2);
+        }
+        @media screen and (min-width:1px) and (max-width:671px){
+            #g{
+                width:100%;
+            }
+        }
+        #h{
+            height:300px;
+            width:300px;
+            background-color:yellow;
+            float:left;/*scale x */
+        }
+        #h:hover{     
+            transform:scaleX(2);
+        }
+        @media screen and (min-width:1px) and (max-width:933px){
+            #h{
+                width:100%;
+            }
+        }
+        #i{
+            height:300px;
+            width:300px;
+            background-color:tomato;
+            float:left;/*scale y */
+        }
+        #i:hover{ 
+            transform:scaley(2);
+        }
+        @media screen and (min-width:1px) and (max-width:993px){
+            #i{
+                width:100%;
+            }
+        }
+        #j{
+            height:300px;
+            width:300px;
+            background-color:aqua;
+            float:left; /*skew*/                                                           
+        }
+        #j:hover{ 
+            transform:skew(20deg,40deg);
+        }
+        @media screen and (min-width:1px) and (max-width:671px){
+            #j{
+                width:1000%;
+            }
+        }
+        #k{
+            height:300px;
+            width:300px;
+            background-color:fuchsia;
+            float:left;/*skew x */
+        }
+        #k:hover{ 
+            transform:skewX(30deg);
+        }
+        @media screen and (min-width:1px) and (max-width:933px){
+            #k{
+                width:100%;
+            }
+        }
+        #l{
+            height:300px;
+            width:300px;
+            background-color:teal;
+            float:left;/*skew y*/
+        }
+        #l:hover{ 
+            transform:skewY(20deg);
+        }
+        @media screen and (min-width:1px) and (max-width:993px){
+            #l{
+                width:100%;
+            }
+        }
+        #m{
+            height:300px;
+            width:300px;
+            background-color:chartreuse;
+            float:left;/*matrix */
+        }
+        #m:hover{ 
+            transform:matrix(1,-0.3,0,0,2,0);
+        }
+        @media screen and (min-width:1px) and (max-width:671px){
+            #m{
+                width:100%;
+            }
+        }
+    </style>
+    </head>
+    <body>
+        <center><h1>transform in css</h1></center>
+        <div id="a">translate()</div>
+        <div id="b">translateX()</div>
+        <div id="c">translateY()</div>
+        <div id="d">rotate()</div>
+        <div id="e">rotateX()</div>
+        <div id="f">rotateY()</div>
+        <div id="g">scale()</div>
+        <div id="h">scaleX()</div>
+        <div id="i">scaleY()</div>
+        <div id="j">skew()</div>
+        <div id="k">skewX()</div>
+        <div id="l">skewY()</div>
+        <div id="m">matrix()</div>
+    </body>
+</html>

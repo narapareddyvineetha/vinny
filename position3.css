@@ -1,0 +1,132 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    padding: 16px;
+    background-color: mintcream;
+  }
+  
+  h1,
+  h2 {
+    margin-bottom: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  main {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  
+  section {
+    display:flex;
+    flex-wrap: wrap;
+    background-color: white;
+  }
+  
+  section > div {
+    flex: 1 0 240px;
+    padding: 16px;
+    border: 1px solid;
+    width: 4px;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    position: relative;
+    border: 1px dotted;
+  }
+  
+   {
+    section {
+      width: 16px;
+      display: grid;
+     
+    }
+    
+    section > div {
+      width: initial;
+    }
+  }
+  
+  .box {
+    height: 100px;
+    width: 100px;
+    opacity: 0.75;
+    border: 2px solid blue;
+    background-color: dodgerblue;
+    display: flex;
+    text-align: center;
+  }
+  
+  span {
+    margin: auto;
+  }
+  
+  .positioned {
+    border: 2px solid green;
+    background-color: limegreen;
+  }
+  
+  
+  .relative .positioned {
+    position: relative;
+    top: 32px;
+    left: 32px;
+  }
+  
+  .absolute .positioned {
+    position: absolute;
+    right: 0;
+  }
+  
+  .fixed .positioned {
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+  .top .container,
+  .bottom .container {
+    height: 200px;
+    overflow-y: scroll;
+  }
+  
+  .top .positioned {
+    position: sticky;
+    top: 32px;
+  }
+  
+  .bottom .positioned {
+    position: sticky;
+    bottom: 32px;
+  }
+  
+  .left .container,
+  .right .container {
+    overflow-x: scroll;
+  }
+  
+  .scroll-wrap {
+    height:200px;
+    width: 600px;
+    display: flex;
+  }
+  
+  .left .positioned {
+    position: sticky;
+    left: 16px;
+  }
+  
+  .right .positioned {
+    position: sticky;
+    right: 16px;
+  }

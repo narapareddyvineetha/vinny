@@ -1,0 +1,102 @@
+.a{
+    height: 750px;
+    width: 800px;
+    background-color:rgba(220, 220, 220, 0.981);
+}
+.b{
+    height:350px;
+    width: 800px;
+    background-color:cadetblue;
+}
+.c{
+    height:200px;
+    width: 800px;
+    background-color:silver;
+     position:relative;
+
+}
+.d{
+    height:200px;
+    width: 800px;
+    background-color:cadetblue;
+    position: relative;
+}
+.f{
+    height:250px;
+    width:600px;
+     margin-left:100px;
+     margin-right: 100px;
+    text-align: left;
+     text-transform: capitalize;
+}
+.g{
+    height:5px;
+    width:110px;
+    background-color: blue;
+    color: white;
+    border-radius:80px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:30px;
+    margin-left:220px;
+    margin-right:250px;
+}
+.h{
+    height:200px;
+    width:200px;
+    background-color: coral;
+    float: left;  
+    position: relative;
+    margin-left: 100px;
+    margin-right:100px;
+    bottom:65px;
+    left:50px;
+}
+.i{
+    height:200px;
+    width:200px;
+    background-color: coral;
+    float:right;
+    position: relative;
+    bottom: 100px;
+    margin-right: 200px;
+}
+.j{
+    height:200px;
+    width:200px;
+    background-color: coral;
+    float: left;
+    position: relative;
+    margin-left: 100px;
+    margin-right:100px;
+    bottom:15px;
+    left:50px;
+}
+.k{
+    height:200px;
+    width:200px;
+    background-color: coral;
+    float:right;
+    position: relative;
+    bottom:50px;
+    margin-right: 200px;
+}
+.l{
+    height:40px;
+    width:60px;
+    background-color: orange;
+    background-image:url(../back/suitcase2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 80px;
+    
+}
+.m{
+    height:40px;
+    width:60px;
+    background-color:violet;
+    background-image:url(../back/flight.jpeg);
+    border-radius: 80px;
+    
+}

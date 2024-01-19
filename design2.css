@@ -1,0 +1,108 @@
+.a{
+    height:500px;
+    width:1300px;
+    background-color: gray;
+}
+.b{
+    height:100px;
+    width:1300px;
+    background-color:chartreuse;
+}
+.c{
+    height:400px;
+    width:1300px;
+    background-color:aqua;
+    position: relative;
+}
+.d{
+    height:300px;
+    width:300px;
+    background-color:silver; 
+    float:left;
+    margin-left:20px;
+    position:relative;
+    bottom:30px;
+}
+.e{
+    height:300px;
+    width:300px;
+    background-color:silver; 
+    float:left;
+    margin-left: 20px;
+    position:relative;
+    bottom:70px;
+}
+.f{
+    height:300px;
+    width:300px;
+    background-color:silver; 
+    float:left;
+    margin-left: 20px;
+    position:relative;
+    bottom:30px;
+}
+.g{
+    height:300px;
+    width:300px;
+    background-color:silver; 
+    float:right;
+    margin-right:20px;
+    position:relative;
+    bottom:70px;
+}
+.h{
+    height:70px;
+    width:100px;
+    background-color:blue; 
+    background-image:url(../back/shoe.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    padding-bottom:30px;
+    margin-left:90px;
+    margin-right: 90px;
+}
+.i{
+    height:70px;
+    width:90px;
+    background-color:blue; 
+    background-image:url(../back/result.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    padding-bottom:20px;
+    margin-left:90px;
+    margin-right: 90px;
+}
+.j{
+    height:70px;
+    width:100px;
+    background-color:blue; 
+    background-image:url(../back/whistle.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    padding-bottom:20px;
+    margin-left:90px;
+    margin-right: 90px;
+}
+.k{
+    height:70px;
+    width:100px;
+    background-color:blue; 
+    background-image:url(../back/success.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    padding-bottom:30px;
+    margin-left:90px;
+    margin-right: 90px;
+}
+.P{
+    text-align: justify;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+}
+
+
+

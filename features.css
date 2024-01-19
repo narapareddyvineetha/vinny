@@ -1,0 +1,220 @@
+.a{
+    height:900px;
+    width:1600px;
+    background-color:mediumpurple;
+}
+h4{
+    color:white;
+    position: relative;
+    top:15px;
+}
+h1{
+    color:white;
+}
+h5{
+    color:white;
+}
+.b{
+    height:750px;
+    width:100px;
+    background-color:mediumpurple;
+    margin-left: 155px;margin-right:155px;
+}
+.top{
+    height:350px;
+    width:1300px;
+}
+.c{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:left;
+    margin-right:30px;
+}
+.d{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:left;
+    margin-right:30px;
+}
+.e{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:right;
+    margin-right:30px;
+}
+.bottom{
+    height:400px;
+    width:1300px;
+}
+.f{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:left;
+    margin-right:30px;
+    margin-top: 50px;
+}
+.g{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:left;
+    margin-right:30px;
+    margin-top: 50px;
+}
+.h{
+    height:350px;
+    width:400px;
+    background-color: white;
+    float:right;
+    margin-right:30px;
+    margin-top: 50px;
+}
+.x{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    background-image:url(../back/podcast.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.i{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 20px;
+    background-image:url(../back/video\ production.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.l{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 20px;
+    background-image:url(../back/seo.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.o{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 20px;
+    background-image:url(../back/cloud.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.r{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 20px;
+    background-image:url(../back/customer.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.u{
+    height:130px;
+    width:200px;
+    background-color: beige;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top: 20px;
+    background-image:url(../back/marketing.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color: mediumpurple;
+}
+p{
+    text-align: center;
+
+}
+.k{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}
+.n{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}
+.q{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}
+.t{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}
+.w{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}
+.z{
+    height:20px;
+    width:60px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin-left: 130px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    position: relative;bottom:10px;left:20px;
+}

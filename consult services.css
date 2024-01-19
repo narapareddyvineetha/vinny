@@ -1,0 +1,175 @@
+.a{
+    height:750px;
+    width:1500px;
+    background-color:white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.b{
+    height:350px;
+    width:1300px;
+    background-color:white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.c{
+    height:350px;
+    width:1300px;
+    background-color:white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.d{
+    height:350px;
+    width:400px;
+    background-color:white;
+    float: left;
+    margin-right:50px;
+}
+.e{
+    height:350px;
+    width:400px;
+    background-color:mediumpurple;
+    float: left;
+    margin-right:50px;
+}
+.f{
+    height:350px;
+    width:400px;
+    background-color:lemonchiffon;
+    float:right;
+}
+.g{
+    height:350px;
+    width:400px;
+    background-color:lightpink;
+    float: left;
+    margin-right:50px;
+}
+.h{
+    height:350px;
+    width:400px;
+    background-color:mediumpurple;
+    float: left;
+    margin-right:50px;
+}
+.i{
+    height:350px;
+    width:400px;
+    background-color:lightpink;
+    float:right;
+}
+h1{
+    font-size: xx-large;
+    left:30px;
+}
+.all{
+    height:30px;
+    width:100px;
+    background-color: blueviolet;
+    color:white;
+    padding-left:20px;
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.j{
+height:100px;
+width:130px;
+background-color: beige;
+background-image: url(../back/swot1.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.k{
+    height:100px;
+    width:130px;
+    background-color: beige;
+    background-image: url(../back/);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+ .l{
+            height:100px;
+            width:130px;
+            background-color: beige;
+            background-image: url(../back/notesjpeg.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+ }
+ .m{
+                height:100px;
+                width:130px;
+                background-color: beige;
+                background-image: url(../back/stock\ market.jpeg);
+                background-size: cover;
+                background-repeat: no-repeat;
+}
+.n{
+                    height:100px;
+                    width:130px;
+                    background-color: beige;
+                    background-image: url(../back/rocket.png);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+ }
+.o{
+    height:20px;
+    width:100px;
+    background-color: blueviolet;
+    position: relative;
+    top:180px;
+    left:150px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+}           
+.p{
+    height:20px;
+    width:100px;
+    background-color: blueviolet;
+    position: relative;
+    top:180px;
+    left:150px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+}                       
+
+.q{
+    height:20px;
+    width:100px;
+    background-color: blueviolet;
+    position: relative;
+    top:180px;
+    left:150px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+}                       
+
+.r{
+    height:20px;
+    width:100px;
+    background-color: blueviolet;
+    position: relative;
+    top:180px;
+    left:150px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+}                       
+
+.s{
+    height:20px;
+    width:100px;
+    background-color: blueviolet;
+    position: relative;
+    top:180px;
+    left:150px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+}                       
+
